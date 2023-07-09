@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johannes-Dietz
-- 👀 I’m interested in Chemistry, Libraries and like Sports
-- 🌱 I’m currently learning CS50 (online)
+- 👀 I’m interested in chemistry, libraries and I like doing sports, swimming etc
+- 🌱 I’m currently learning CS50 on edx
 - 💞️ I’m looking to collaborate on stuff in the future, right now I'm still just learning
 - 📫 How to reach me: You can email me via orangenfrucht@duck.com
 
